@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BottomNavigationWithNavGraph</string>
+    <string name="app_name">Bottom Nav Graph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Page</string>
+    <string name="one_fragment">One Page</string>
+    <string name="two_fragment">Two Page</string>
+    <string name="three_fragment">Three Page</string>
 </resources>
